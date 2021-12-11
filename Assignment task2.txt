@@ -1,0 +1,14 @@
+1)  Create some variables to define  firstName, lastName, age, height with the following values.
+
+2)  Check DataType Of Question 1 variables.
+
+3) Define List And Show Elements Of Lists.
+
+4)  Declare 5 legal & 5 illegal variables.
+
+5) Declare a variable called birthYear & assign to it your
+birth year. Show the following Brith Year.
+
+6)Write a single line comment which says, comments can make code
+readable.
+
